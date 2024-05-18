@@ -1,2 +1,3 @@
 # Certifications
-Online course certifications
+
+* Notable course certifications
